@@ -1,0 +1,41 @@
+body{
+    background-color: #2e2e2e;
+}
+
+.container{
+    position: absolute;
+    top: 18rem;
+    left: 25rem;
+    background-color: aliceblue;
+    width: 50%;
+    border-radius: .5rem;
+    text-align: center;
+}
+
+.heading{
+    margin-top: 2rem;
+    text-align: center;
+    /* width: fit-content; */
+}
+
+.heading h1{
+    text-align: center;
+    
+    font-size: 1.5rem;
+    margin: 1rem;
+    font-family: 'poppins';
+}
+
+.jokes{
+    margin: 2rem;
+}
+
+.jokes h2{
+    font-family: 'ubuntu';
+    font-size: 1.5rem;
+}
+
+.btn-2{
+    margin: 2rem;
+    color:#2e2e2e;
+}
